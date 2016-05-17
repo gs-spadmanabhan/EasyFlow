@@ -1,1 +1,1 @@
-# EasyWorkflow
+# Easy Workflow
